@@ -1,0 +1,29 @@
+#al {
+    color: #ffffff;
+    background-color: #4488aa;
+}
+#aaaa {
+border: 1px dashed #7db458;
+padding:10px;
+margin: 10px;
+width: 100px;
+height: 20px;
+max-width: width 120px;
+min-width:80px;
+max-height:30px;
+min-height:15px;
+overflow:hidden;
+}
+#bbbb {
+    border: 40px solid #b44738;
+    background-color: #eed440;
+    padding:10px;
+    margin: 10px;
+    width: 100px;
+    height: 20px;
+    max-width: width 120px;
+    min-width:80px;
+    max-height:30px;
+    min-height:15px;
+    overflow:hidden; 
+}
